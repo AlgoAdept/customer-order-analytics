@@ -1,10 +1,25 @@
-__pycache__/
-.ipynb_checkpoints/
+# Virtual Environment
 .venv/
-.env
 
+# Python Cache
+__pycache__/
 *.pyc
 
-data/processed/
+# Jupyter
+.ipynb_checkpoints/
 
-snowflake_credentials.py
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Generated Data (Optional)
+# data/silver/
+# data/gold/
