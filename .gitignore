@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+
+*.pyc
+
+data/processed/
+
+snowflake_credentials.py
