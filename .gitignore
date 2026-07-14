@@ -20,6 +20,6 @@ __pycache__/
 # Logs
 *.log
 
-# Generated Data (Optional)
-# data/silver/
-# data/gold/
+# Generated Data
+data/silver/
+data/gold/
