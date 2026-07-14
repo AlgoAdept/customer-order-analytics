@@ -1,0 +1,1127 @@
+location_id,country,state,market,region
+15,Algeria,Constantine,Africa,Africa
+57,Australia,New South Wales,APAC,Oceania
+399,Hungary,Budapest,EMEA,EMEA
+897,Sweden,Stockholm,EU,North
+170,Canada,Ontario,Canada,Canada
+665,New Zealand,Auckland,APAC,Oceania
+484,Iraq,Ninawa,EMEA,EMEA
+756,Philippines,National Capital,APAC,Southeast Asia
+1027,United Kingdom,England,EU,North
+584,Malaysia,Sarawak,APAC,Southeast Asia
+383,Guatemala,Guatemala,LATAM,Central
+473,Iran,Yazd,EMEA,EMEA
+930,Thailand,Nakhon Ratchasima,APAC,Southeast Asia
+468,Iran,Razavi Khorasan,EMEA,EMEA
+915,Tanzania,Dar Es Salaam,Africa,Africa
+127,Brazil,Parana,LATAM,South
+621,Mexico,Yucatán,LATAM,North
+254,Cuba,Granma,LATAM,Caribbean
+354,France,Rhône-Alpes,EU,Central
+115,Brazil,Alagoas,LATAM,South
+263,Cuba,Santiago de Cuba,LATAM,Caribbean
+1071,United States,Texas,US,Central
+538,Japan,Tottori,APAC,North Asia
+891,Sudan,Khartoum,Africa,Africa
+620,Mexico,Veracruz,LATAM,North
+1041,United States,Illinois,US,Central
+912,Taiwan,Taipei City,APAC,North Asia
+343,France,Ile-de-France,EU,Central
+446,Indonesia,Sumatera Barat,APAC,Southeast Asia
+1108,Vietnam,Ho Chí Minh City,APAC,Southeast Asia
+32,Angola,Luanda,Africa,Africa
+202,China,Jilin,APAC,North Asia
+1066,United States,Pennsylvania,US,East
+1045,United States,Kentucky,US,South
+647,Mozambique,Niassa,Africa,Africa
+353,France,Provence-Alpes-Côte d'Azur,EU,Central
+558,Lebanon,Beirut,EMEA,EMEA
+1033,United States,California,US,West
+10,Algeria,Alger,Africa,Africa
+139,Brazil,São Paulo,LATAM,South
+1039,United States,Georgia,US,South
+845,Singapore,Singapore,APAC,Southeast Asia
+657,Netherlands,Groningen,EU,Central
+28,Angola,Benguela,Africa,Africa
+213,China,Yunnan,APAC,North Asia
+348,France,Midi-Pyrénées,EU,Central
+705,Nigeria,Lagos,Africa,Africa
+434,Indonesia,Jawa Timur,APAC,Southeast Asia
+1110,Vietnam,Kiên Giang,APAC,Southeast Asia
+753,Philippines,Calabarzon,APAC,Southeast Asia
+59,Australia,Queensland,APAC,Oceania
+311,Egypt,Al Qahirah,Africa,Africa
+1092,Venezuela,Carabobo,LATAM,South
+608,Mexico,México,LATAM,North
+191,China,Guangxi,APAC,North Asia
+859,South Africa,North-West,Africa,Africa
+929,Thailand,Bangkok,APAC,Southeast Asia
+432,Indonesia,Jawa Barat,APAC,Southeast Asia
+885,Spain,Murcia,EU,South
+410,India,Jammu and Kashmir,APAC,Central Asia
+951,Turkey,Bursa,EMEA,EMEA
+674,New Zealand,Otago,APAC,Oceania
+75,Austria,Vienna,EU,Central
+1074,United States,Virginia,US,South
+503,Italy,Liguria,EU,South
+598,Mexico,Coahuila,LATAM,North
+366,Germany,Lower Saxony,EU,Central
+1036,United States,Delaware,US,East
+313,Egypt,Aswan,Africa,Africa
+605,Mexico,Jalisco,LATAM,North
+662,Netherlands,South Holland,EU,Central
+1089,Venezuela,Anzoátegui,LATAM,South
+901,Sweden,Västra Götaland,EU,North
+60,Australia,South Australia,APAC,Oceania
+1046,United States,Louisiana,US,South
+1068,United States,South Carolina,US,South
+680,Nicaragua,Estelí,LATAM,Central
+594,Mexico,Baja California,LATAM,North
+853,South Africa,Eastern Cape,Africa,Africa
+961,Turkey,Gaziantep,EMEA,EMEA
+1063,United States,Ohio,US,East
+349,France,Nord-Pas-de-Calais,EU,Central
+290,Dominican Republic,La Romana,LATAM,Caribbean
+428,Indonesia,Bali,APAC,Southeast Asia
+712,Nigeria,Rivers,Africa,Africa
+323,El Salvador,San Salvador,LATAM,Central
+63,Australia,Western Australia,APAC,Oceania
+283,Denmark,Hovedstaden,EU,North
+914,Tanzania,Arusha,Africa,Africa
+887,Spain,Valenciana,EU,South
+117,Brazil,Amazonas,LATAM,South
+284,Denmark,South Denmark,EU,North
+831,Saudi Arabia,Al Jawf,EMEA,EMEA
+1118,Zambia,Eastern,Africa,Africa
+508,Italy,Sicily,EU,South
+651,Myanmar (Burma),Yangon,APAC,Southeast Asia
+1065,United States,Oregon,US,West
+504,Italy,Lombardy,EU,South
+167,Canada,Manitoba,Canada,Canada
+603,Mexico,Guerrero,LATAM,North
+1031,United States,Arizona,US,West
+600,Mexico,Distrito Federal,LATAM,North
+702,Nigeria,Kano,Africa,Africa
+810,Russia,Belgorod,EMEA,EMEA
+683,Nicaragua,Managua,LATAM,Central
+626,Mongolia,Ulaanbaatar,EMEA,EMEA
+1032,United States,Arkansas,US,South
+1050,United States,Michigan,US,Central
+368,Germany,North Rhine-Westphalia,EU,Central
+1070,United States,Tennessee,US,South
+510,Italy,Tuscany,EU,South
+91,Belgium,Flemish Brabant,EU,Central
+551,Kenya,Coast,Africa,Africa
+340,France,Champagne-Ardenne,EU,Central
+324,El Salvador,Santa Ana,LATAM,Central
+217,Colombia,Atlántico,LATAM,South
+1038,United States,Florida,US,South
+832,Saudi Arabia,Al Madinah,EMEA,EMEA
+328,Estonia,Harjumaa,EMEA,EMEA
+500,Italy,Emilia-Romagna,EU,South
+678,New Zealand,Wellington,APAC,Oceania
+58,Australia,Northern Territory,APAC,Oceania
+1056,United States,Nevada,US,West
+414,India,Madhya Pradesh,APAC,Central Asia
+575,Madagascar,Atsinanana,Africa,Africa
+448,Indonesia,Sumatera Utara,APAC,Southeast Asia
+1042,United States,Indiana,US,Central
+940,Turkey,Afyonkarahisar,EMEA,EMEA
+352,France,Poitou-Charentes,EU,Central
+704,Nigeria,Kwara,Africa,Africa
+854,South Africa,Free State,Africa,Africa
+198,China,Hunan,APAC,North Asia
+255,Cuba,Guantánamo,LATAM,Caribbean
+966,Turkey,Izmir,EMEA,EMEA
+772,Portugal,Lisboa,EU,South
+630,Morocco,Fès-Boulemane,Africa,Africa
+844,Sierra Leone,Southern,Africa,Africa
+464,Iran,Markazi,EMEA,EMEA
+422,India,Telangana,APAC,Central Asia
+344,France,Languedoc-Roussillon,EU,Central
+433,Indonesia,Jawa Tengah,APAC,Southeast Asia
+723,Norway,Oslo,EU,North
+883,Spain,Madrid,EU,South
+1069,United States,South Dakota,US,Central
+619,Mexico,Tamaulipas,LATAM,North
+207,China,Shandong,APAC,North Asia
+173,Central African Republic,Bangui,Africa,Africa
+268,Czech Republic,Olomouc,EMEA,EMEA
+437,Indonesia,Kalimantan Timur,APAC,Southeast Asia
+636,Morocco,Rabat-Salé-Zemmour-Zaer,Africa,Africa
+190,China,Guangdong,APAC,North Asia
+288,Dominican Republic,Duarte,LATAM,Caribbean
+1096,Venezuela,Lara,LATAM,South
+102,Benin,Littoral,Africa,Africa
+1060,United States,New York,US,East
+62,Australia,Victoria,APAC,Oceania
+634,Morocco,Marrakech-Tensift-El Haouz,Africa,Africa
+187,China,Chongqing,APAC,North Asia
+298,Dominican Republic,Santo Domingo,LATAM,Caribbean
+79,Bangladesh,Dhaka,APAC,Central Asia
+197,China,Hubei,APAC,North Asia
+733,Panama,Panama,LATAM,Central
+196,China,Henan,APAC,North Asia
+372,Germany,Saxony,EU,Central
+872,Spain,Andalusía,EU,South
+360,Germany,Bavaria,EU,Central
+1077,United States,Wisconsin,US,Central
+879,Spain,Catalonia,EU,South
+899,Sweden,Uppsala,EU,North
+192,China,Guizhou,APAC,North Asia
+855,South Africa,Gauteng,Africa,Africa
+1075,United States,Washington,US,West
+946,Turkey,Aydin,EMEA,EMEA
+200,China,Jiangsu,APAC,North Asia
+334,France,Alsace,EU,Central
+1058,United States,New Jersey,US,East
+182,Chile,Santiago,LATAM,South
+262,Cuba,Sancti Spíritus,LATAM,Caribbean
+365,Germany,Hesse,EU,Central
+661,Netherlands,Overijssel,EU,Central
+863,South Korea,Daejeon,APAC,North Asia
+535,Japan,Shizuoka,APAC,North Asia
+581,Malaysia,Pahang,APAC,Southeast Asia
+902,Switzerland,Basel-Stadt,EU,Central
+624,Moldova,Chisinau,EMEA,EMEA
+1003,Uganda,Kampala,Africa,Africa
+1122,Zimbabwe,Bulawayo,Africa,Africa
+454,Iran,Gilan,EMEA,EMEA
+412,India,Karnataka,APAC,Central Asia
+632,Morocco,Grand Casablanca,Africa,Africa
+1053,United States,Missouri,US,Central
+809,Russia,Bashkortostan,EMEA,EMEA
+718,Niger,Niamey,Africa,Africa
+256,Cuba,Holguín,LATAM,Caribbean
+203,China,Liaoning,APAC,North Asia
+838,Senegal,Dakar,Africa,Africa
+397,Hong Kong,Hong Kong,APAC,North Asia
+818,Russia,Kaluga,EMEA,EMEA
+534,Japan,Saitama,APAC,North Asia
+278,Democratic Republic of the Congo,Kinshasa,Africa,Africa
+424,India,Uttar Pradesh,APAC,Central Asia
+195,China,Heilongjiang,APAC,North Asia
+1123,Zimbabwe,Harare,Africa,Africa
+868,South Korea,Seoul,APAC,North Asia
+420,India,Rajasthan,APAC,Central Asia
+338,France,Burgundy,EU,Central
+537,Japan,Tokyo,APAC,North Asia
+194,China,Hebei,APAC,North Asia
+908,Switzerland,Zürich,EU,Central
+767,Poland,Pomerania,EMEA,EMEA
+472,Iran,Tehran,EMEA,EMEA
+487,Ireland,Dublin,EU,North
+281,Democratic Republic of the Congo,South Kivu,Africa,Africa
+955,Turkey,Diyarbakir,EMEA,EMEA
+415,India,Maharashtra,APAC,Central Asia
+729,Pakistan,Punjab,APAC,Central Asia
+76,Azerbaijan,Baki,EMEA,EMEA
+502,Italy,Lazio,EU,South
+95,Belgium,Namur,EU,Central
+467,Iran,Qom,EMEA,EMEA
+133,Brazil,Rio Grande do Sul,LATAM,South
+118,Brazil,Bahia,LATAM,South
+261,Cuba,Pinar del Río,LATAM,Caribbean
+280,Democratic Republic of the Congo,Orientale,Africa,Africa
+685,Nicaragua,Matagalpa,LATAM,Central
+430,Indonesia,Jakarta,APAC,Southeast Asia
+660,Netherlands,North Holland,EU,Central
+516,Japan,Chiba,APAC,North Asia
+451,Iran,Bushehr,EMEA,EMEA
+1021,Ukraine,Vinnytsya,EMEA,EMEA
+361,Germany,Berlin,EU,Central
+1010,Ukraine,Kherson,EMEA,EMEA
+514,Japan,Aichi,APAC,North Asia
+447,Indonesia,Sumatera Selatan,APAC,Southeast Asia
+61,Australia,Tasmania,APAC,Oceania
+479,Iraq,Baghdad,EMEA,EMEA
+258,Cuba,Las Tunas,LATAM,Caribbean
+6,Albania,Elbasan,EMEA,EMEA
+794,Romania,Iasi,EMEA,EMEA
+394,Honduras,Cortés,LATAM,Central
+690,Nigeria,Anambra,Africa,Africa
+492,Israel,Jerusalem,EMEA,EMEA
+350,France,Pays de la Loire,EU,Central
+1061,United States,North Carolina,US,South
+210,China,Sichuan,APAC,North Asia
+965,Turkey,Istanbul,EMEA,EMEA
+698,Nigeria,Enugu,Africa,Africa
+768,Poland,Silesia,EMEA,EMEA
+836,Saudi Arabia,Makkah,EMEA,EMEA
+156,Cameroon,Centre,Africa,Africa
+154,Cambodia,Phnom Penh,APAC,Southeast Asia
+359,Germany,Baden-Württemberg,EU,Central
+358,Georgia,Tbilisi,EMEA,EMEA
+764,Poland,Masovia,EMEA,EMEA
+166,Canada,British Columbia,Canada,Canada
+35,Argentina,Buenos Aires,LATAM,South
+1034,United States,Colorado,US,West
+123,Brazil,Maranhão,LATAM,South
+943,Turkey,Ankara,EMEA,EMEA
+129,Brazil,Pará,LATAM,South
+1094,Venezuela,Distrito Capital,LATAM,South
+335,France,Aquitaine,EU,Central
+12,Algeria,Batna,Africa,Africa
+208,China,Shanghai,APAC,North Asia
+333,Finland,Uusimaa,EU,North
+650,Mozambique,Zambezia,Africa,Africa
+667,New Zealand,Canterbury,APAC,Oceania
+1072,United States,Utah,US,West
+186,China,Beijing,APAC,North Asia
+758,Philippines,Western Visayas,APAC,Southeast Asia
+275,Democratic Republic of the Congo,Kasai-Occidental,Africa,Africa
+569,Lithuania,Vilnius,EMEA,EMEA
+496,Italy,Apulia,EU,South
+706,Nigeria,Niger,Africa,Africa
+371,Germany,Saxony-Anhalt,EU,Central
+612,Mexico,Puebla,LATAM,North
+1051,United States,Minnesota,US,Central
+1052,United States,Mississippi,US,South
+1112,Vietnam,Th? Dô Hà N?i,APAC,Southeast Asia
+382,Guatemala,Escuintla,LATAM,Central
+711,Nigeria,Plateau,Africa,Africa
+402,India,Andhra Pradesh,APAC,Central Asia
+746,Peru,Lima (city),LATAM,South
+507,Italy,Sardinia,EU,South
+654,Netherlands,Drenthe,EU,Central
+850,Somalia,Banaadir,Africa,Africa
+459,Iran,Kermanshah,EMEA,EMEA
+391,Haiti,Ouest,LATAM,Caribbean
+724,Norway,Rogaland,EU,North
+666,New Zealand,Bay of Plenty,APAC,Oceania
+367,Germany,Mecklenburg-Vorpommern,EU,Central
+242,Cote d'Ivoire,Lagunes,Africa,Africa
+474,Iran,Zanjan,EMEA,EMEA
+427,Indonesia,Aceh,APAC,Southeast Asia
+659,Netherlands,North Brabant,EU,Central
+470,Iran,Sistan Va Baluchestan,EMEA,EMEA
+56,Australia,Australian Capital Territory,APAC,Oceania
+582,Malaysia,Perak,APAC,Southeast Asia
+1043,United States,Iowa,US,Central
+1059,United States,New Mexico,US,West
+74,Austria,Vienna,EMEA,EMEA
+511,Italy,Umbria,EU,South
+50,Argentina,Salta,LATAM,South
+171,Canada,Quebec,Canada,Canada
+393,Honduras,Choluteca,LATAM,Central
+199,China,Inner Mongolia,APAC,North Asia
+395,Honduras,Francisco Morazán,LATAM,Central
+814,Russia,Irkutsk,EMEA,EMEA
+426,India,West Bengal,APAC,Central Asia
+812,Russia,Chelyabinsk,EMEA,EMEA
+826,Russia,Yaroslavl',EMEA,EMEA
+952,Turkey,Canakkale,EMEA,EMEA
+904,Switzerland,Geneva,EU,Central
+512,Italy,Veneto,EU,South
+867,South Korea,Jeju,APAC,North Asia
+218,Colombia,Bogota,LATAM,South
+1049,United States,Massachusetts,US,East
+81,Bangladesh,Rajshahi,APAC,Central Asia
+119,Brazil,Ceará,LATAM,South
+214,China,Zhejiang,APAC,North Asia
+1028,United Kingdom,Scotland,EU,North
+355,France,Upper Normandy,EU,Central
+971,Turkey,Kayseri,EMEA,EMEA
+730,Pakistan,Sindh,APAC,Central Asia
+4,Afghanistan,Nangarhar,APAC,Central Asia
+1005,Ukraine,Chernihiv,EMEA,EMEA
+296,Dominican Republic,San Pedro de Macorís,LATAM,Caribbean
+1030,United States,Alabama,US,South
+759,Poland,Greater Poland,EMEA,EMEA
+388,Guinea,Kindia,Africa,Africa
+495,Italy,Abruzzi,EU,South
+700,Nigeria,Imo,Africa,Africa
+771,Portugal,Coimbra,EU,South
+444,Indonesia,Sulawesi Tenggara,APAC,Southeast Asia
+1054,United States,Montana,US,West
+597,Mexico,Chihuahua,LATAM,North
+158,Cameroon,Extreme-Nord,Africa,Africa
+1040,United States,Idaho,US,West
+877,Spain,Castile and León,EU,South
+40,Argentina,Córdoba,LATAM,South
+562,Liberia,Montserrado,Africa,Africa
+606,Mexico,Michoacán,LATAM,North
+1048,United States,Maryland,US,East
+308,Egypt,Al Iskandariyah,Africa,Africa
+421,India,Tamil Nadu,APAC,Central Asia
+615,Mexico,San Luis Potosí,LATAM,North
+346,France,Lorraine,EU,Central
+686,Nigeria,Abia,Africa,Africa
+656,Netherlands,Gelderland,EU,Central
+364,Germany,Hamburg,EU,Central
+132,Brazil,Rio Grande do Norte,LATAM,South
+137,Brazil,Santa Catarina,LATAM,South
+251,Cuba,Camagüey,LATAM,Caribbean
+336,France,Auvergne,EU,Central
+345,France,Limousin,EU,Central
+871,South Sudan,Central Equatoria,Africa,Africa
+362,Germany,Brandenburg,EU,Central
+66,Austria,Salzburg,EMEA,EMEA
+799,Romania,Prahova,EMEA,EMEA
+635,Morocco,Meknès-Tafilalet,Africa,Africa
+390,Haiti,Artibonite,LATAM,Caribbean
+763,Poland,Lubusz,EMEA,EMEA
+997,Turkmenistan,Ashgabat,EMEA,EMEA
+602,Mexico,Guanajuato,LATAM,North
+287,Dominican Republic,Barahona,LATAM,Caribbean
+947,Turkey,Balikesir,EMEA,EMEA
+78,Bangladesh,Chittagong,APAC,Central Asia
+396,Honduras,Yoro,LATAM,Central
+990,Turkey,Sivas,EMEA,EMEA
+545,Kazakhstan,Astana,EMEA,EMEA
+384,Guatemala,Huehuetenango,LATAM,Central
+560,Lesotho,Maseru,Africa,Africa
+97,Benin,Alibori,Africa,Africa
+88,Belgium,Antwerp,EU,Central
+351,France,Picardy,EU,Central
+1014,Ukraine,Luhans'k,EMEA,EMEA
+185,China,Anhui,APAC,North Asia
+1019,Ukraine,Sumy,EMEA,EMEA
+363,Germany,Bremen,EU,Central
+153,Burundi,Bujumbura-Mairie,Africa,Africa
+449,Indonesia,Yogyakarta,APAC,Southeast Asia
+1035,United States,Connecticut,US,East
+892,Sudan,Red Sea,Africa,Africa
+374,Germany,Thuringia,EU,Central
+782,Romania,Botosani,EMEA,EMEA
+775,Qatar,Ad Dawhah,EMEA,EMEA
+790,Romania,Galati,EMEA,EMEA
+679,Nicaragua,Chinandega,LATAM,Central
+339,France,Centre,EU,Central
+938,Turkey,Adana,EMEA,EMEA
+274,Democratic Republic of the Congo,Equateur,Africa,Africa
+609,Mexico,Nayarit,LATAM,North
+991,Turkey,Tekirdag,EMEA,EMEA
+773,Portugal,Porto,EU,South
+573,Madagascar,Analamanga,Africa,Africa
+675,New Zealand,Southland,APAC,Oceania
+148,Bulgaria,Sofiya-Grad,EMEA,EMEA
+591,Martinique,Martinique,LATAM,Caribbean
+547,Kazakhstan,Qaraghandy,EMEA,EMEA
+663,Netherlands,Utrecht,EU,Central
+986,Turkey,Samsun,EMEA,EMEA
+246,Croatia,Osjecko-Baranjska,EMEA,EMEA
+673,New Zealand,Northland,APAC,Oceania
+787,Romania,Cluj,EMEA,EMEA
+975,Turkey,Konya,EMEA,EMEA
+604,Mexico,Hidalgo,LATAM,North
+126,Brazil,Minas Gerais,LATAM,South
+689,Nigeria,Akwa Ibom,Africa,Africa
+648,Mozambique,Sofala,Africa,Africa
+616,Mexico,Sinaloa,LATAM,North
+1106,Venezuela,Zulia,LATAM,South
+377,Ghana,Eastern,Africa,Africa
+1015,Ukraine,Mykolayiv,EMEA,EMEA
+469,Iran,Semnan,EMEA,EMEA
+878,Spain,Castile-La Mancha,EU,South
+337,France,Brittany,EU,Central
+122,Brazil,Goiás,LATAM,South
+596,Mexico,Chiapas,LATAM,North
+1057,United States,New Hampshire,US,East
+744,Peru,La Libertad,LATAM,South
+583,Malaysia,Sabah,APAC,Southeast Asia
+17,Algeria,Guelma,Africa,Africa
+524,Japan,Ishikawa,APAC,North Asia
+670,New Zealand,Manawatu-Wanganui,APAC,Oceania
+1008,Ukraine,Ivano-Frankivsk,EMEA,EMEA
+499,Italy,Campania,EU,South
+637,Morocco,Souss-Massa-Draâ,Africa,Africa
+419,India,Punjab,APAC,Central Asia
+134,Brazil,Rio de Janeiro,LATAM,South
+347,France,Lower Normandy,EU,Central
+610,Mexico,Nuevo León,LATAM,North
+802,Romania,Suceava,EMEA,EMEA
+408,India,Gujarat,APAC,Central Asia
+825,Russia,Voronezh,EMEA,EMEA
+407,India,Delhi,APAC,Central Asia
+828,Rwanda,Kigali,Africa,Africa
+671,New Zealand,Marlborough,APAC,Oceania
+486,Ireland,Cork,EU,North
+761,Poland,Lodz,EMEA,EMEA
+429,Indonesia,Bengkulu,APAC,Southeast Asia
+300,Ecuador,Guayas,LATAM,South
+1009,Ukraine,Kharkiv,EMEA,EMEA
+321,El Salvador,Cuscatlán,LATAM,Central
+138,Brazil,Sergipe,LATAM,South
+953,Turkey,Corum,EMEA,EMEA
+860,South Africa,Western Cape,Africa,Africa
+736,Paraguay,Central,LATAM,South
+857,South Africa,Limpopo,Africa,Africa
+833,Saudi Arabia,Ar Riyad,EMEA,EMEA
+181,Chile,O'Higgins,LATAM,South
+1013,Ukraine,L'viv,EMEA,EMEA
+297,Dominican Republic,Santiago,LATAM,Caribbean
+601,Mexico,Durango,LATAM,North
+90,Belgium,East Flanders,EU,Central
+880,Spain,Ceuta,EU,South
+967,Turkey,Kahramanmaras,EMEA,EMEA
+159,Cameroon,Littoral,Africa,Africa
+253,Cuba,Cienfuegos,LATAM,Caribbean
+533,Japan,Saga,APAC,North Asia
+1000,Uganda,Gulu,Africa,Africa
+413,India,Kerala,APAC,Central Asia
+121,Brazil,Federal District,LATAM,South
+310,Egypt,Al Minya,Africa,Africa
+743,Peru,Junín,LATAM,South
+452,Iran,Esfahan,EMEA,EMEA
+732,Panama,Colón,LATAM,Central
+162,Cameroon,Ouest,Africa,Africa
+688,Nigeria,Adamawa,Africa,Africa
+837,Saudi Arabia,Tabuk,EMEA,EMEA
+895,Sweden,Halland,EU,North
+461,Iran,Khuzestan,EMEA,EMEA
+974,Turkey,Kocaeli,EMEA,EMEA
+130,Brazil,Pernambuco,LATAM,South
+981,Turkey,Nevsehir,EMEA,EMEA
+617,Mexico,Sonora,LATAM,North
+220,Colombia,Boyacá,LATAM,South
+189,China,Gansu,APAC,North Asia
+629,Morocco,Doukkala-Abda,Africa,Africa
+886,Spain,Navarra,EU,South
+543,Kazakhstan,Almaty,EMEA,EMEA
+813,Russia,Dagestan,EMEA,EMEA
+1064,United States,Oklahoma,US,Central
+392,Honduras,Atlántida,LATAM,Central
+277,Democratic Republic of the Congo,Katanga,Africa,Africa
+29,Angola,Bie,Africa,Africa
+369,Germany,Rhineland-Palatinate,EU,Central
+330,Ethiopia,Dire Dawa,Africa,Africa
+165,Canada,Alberta,Canada,Canada
+476,Iraq,Al Qadisiyah,EMEA,EMEA
+910,Syria,Dayr Az Zawr,EMEA,EMEA
+658,Netherlands,Limburg,EU,Central
+172,Canada,Saskatchewan,Canada,Canada
+233,Colombia,Quindío,LATAM,South
+599,Mexico,Colima,LATAM,North
+21,Algeria,Oran,Africa,Africa
+51,Argentina,San Juan,LATAM,South
+710,Nigeria,Oyo,Africa,Africa
+270,Czech Republic,Prague,EMEA,EMEA
+264,Cuba,Villa Clara,LATAM,Caribbean
+806,Russia,Amur,EMEA,EMEA
+440,Indonesia,Nusa Tenggara Timur,APAC,Southeast Asia
+131,Brazil,Piauí,LATAM,South
+607,Mexico,Morelos,LATAM,North
+754,Philippines,Central Luzon,APAC,Southeast Asia
+209,China,Shanxi,APAC,North Asia
+322,El Salvador,La Libertad,LATAM,Central
+1006,Ukraine,Dnipropetrovs'k,EMEA,EMEA
+273,Democratic Republic of the Congo,Bas-Congo,Africa,Africa
+136,Brazil,Roraima,LATAM,South
+553,Kenya,Nairobi,Africa,Africa
+586,Malaysia,Trengganu,APAC,Southeast Asia
+73,Austria,Upper Austria,EU,Central
+1119,Zambia,Lusaka,Africa,Africa
+306,Egypt,Al Fayyum,Africa,Africa
+1023,Ukraine,Zaporizhzhya,EMEA,EMEA
+1007,Ukraine,Donetsk,EMEA,EMEA
+96,Belgium,West Flanders,EU,Central
+913,Tajikistan,Khatlon,EMEA,EMEA
+30,Angola,Huambo,Africa,Africa
+319,Egypt,Qina,Africa,Africa
+579,Malaysia,Kuala Lumpur,APAC,Southeast Asia
+114,Brazil,Acre,LATAM,South
+555,Kenya,Rift Valley,Africa,Africa
+546,Kazakhstan,Pavlodar,EMEA,EMEA
+1055,United States,Nebraska,US,Central
+450,Iran,Ardabil,EMEA,EMEA
+68,Austria,Styria,EMEA,EMEA
+2,Afghanistan,Kabul,APAC,Central Asia
+889,Sudan,Gezira,Africa,Africa
+847,Slovakia,Nitra,EMEA,EMEA
+830,Saudi Arabia,'Asir,EMEA,EMEA
+701,Nigeria,Kaduna,Africa,Africa
+460,Iran,Kerman,EMEA,EMEA
+378,Ghana,Greater Accra,Africa,Africa
+239,Cote d'Ivoire,Fromager,Africa,Africa
+404,India,Bihar,APAC,Central Asia
+865,South Korea,Gyeonggi,APAC,North Asia
+491,Israel,Haifa,EMEA,EMEA
+1047,United States,Maine,US,East
+373,Germany,Schleswig-Holstein,EU,Central
+561,Liberia,Grand Gedeh,Africa,Africa
+71,Austria,Tyrol,EU,Central
+457,Iran,Hormozgan,EMEA,EMEA
+161,Cameroon,Nord,Africa,Africa
+342,France,Franche-Comté,EU,Central
+145,Bulgaria,Plovdiv,EMEA,EMEA
+204,China,Ningxia,APAC,North Asia
+465,Iran,Mazandaran,EMEA,EMEA
+341,France,Corsica,EU,Central
+703,Nigeria,Katsina,Africa,Africa
+509,Italy,Trentino-Alto Adige,EU,South
+549,Kazakhstan,Zhambyl,EMEA,EMEA
+206,China,Shaanxi,APAC,North Asia
+798,Romania,Neamt,EMEA,EMEA
+211,China,Tianjin,APAC,North Asia
+677,New Zealand,Waikato,APAC,Oceania
+645,Mozambique,Maputo,Africa,Africa
+411,India,Jharkhand,APAC,Central Asia
+693,Nigeria,Borno,Africa,Africa
+762,Poland,Lublin,EMEA,EMEA
+86,Belarus,Hrodna,EMEA,EMEA
+959,Turkey,Erzurum,EMEA,EMEA
+791,Romania,Giurgiu,EMEA,EMEA
+841,Senegal,Ziguinchor,Africa,Africa
+749,Peru,Moquegua,LATAM,South
+757,Philippines,Northern Mindanao,APAC,Southeast Asia
+14,Algeria,Bejaia,Africa,Africa
+1117,Zambia,Copperbelt,Africa,Africa
+493,Israel,Southern,EMEA,EMEA
+817,Russia,Kaliningrad,EMEA,EMEA
+980,Turkey,Mersin,EMEA,EMEA
+475,Iraq,Al Basrah,EMEA,EMEA
+276,Democratic Republic of the Congo,Kasai-Oriental,Africa,Africa
+639,Morocco,Tanger-Tétouan,Africa,Africa
+70,Austria,Tyrol,EMEA,EMEA
+188,China,Fujian,APAC,North Asia
+734,Papua New Guinea,National Capital,APAC,Oceania
+858,South Africa,Mpumalanga,Africa,Africa
+907,Switzerland,Vaud,EU,Central
+506,Italy,Piedmont,EU,South
+999,Turkmenistan,Mary,EMEA,EMEA
+642,Mozambique,Cidade De Maputo,Africa,Africa
+692,Nigeria,Benue,Africa,Africa
+498,Italy,Calabria,EU,South
+477,Iraq,Arbil,EMEA,EMEA
+882,Spain,Galicia,EU,South
+862,South Korea,Daegu,APAC,North Asia
+84,Belarus,Brest,EMEA,EMEA
+135,Brazil,Rondônia,LATAM,South
+614,Mexico,Quintana Roo,LATAM,North
+824,Russia,Vladimir,EMEA,EMEA
+890,Sudan,Kassala,Africa,Africa
+684,Nicaragua,Masaya,LATAM,Central
+720,Norway,Buskerud,EU,North
+739,Peru,Ayacucho,LATAM,South
+676,New Zealand,Taranaki,APAC,Oceania
+682,Nicaragua,León,LATAM,Central
+851,Somalia,Jubbada Hoose,Africa,Africa
+578,Madagascar,Haute-Matsiatra,Africa,Africa
+462,Iran,Kordestan,EMEA,EMEA
+595,Mexico,Campeche,LATAM,North
+779,Romania,Bacau,EMEA,EMEA
+37,Argentina,Chaco,LATAM,South
+289,Dominican Republic,Espaillat,LATAM,Caribbean
+222,Colombia,Caquetá,LATAM,South
+445,Indonesia,Sulawesi Utara,APAC,Southeast Asia
+933,Togo,Maritime,Africa,Africa
+48,Argentina,Provincia de Buenos Aires,LATAM,South
+727,Pakistan,F.C.T.,APAC,Central Asia
+1044,United States,Kansas,US,Central
+381,Guatemala,Chimaltenango,LATAM,Central
+564,Libya,Banghazi,Africa,Africa
+299,Ecuador,Azuay,LATAM,South
+317,Egypt,Kafr Ash Shaykh,Africa,Africa
+41,Argentina,Entre Ríos,LATAM,South
+750,Peru,Piura,LATAM,South
+731,Panama,Chiriquí,LATAM,Central
+807,Russia,Arkhangel'sk,EMEA,EMEA
+766,Poland,Podlaskie,EMEA,EMEA
+286,Djibouti,Djibouti,Africa,Africa
+104,Benin,Ouémé,Africa,Africa
+992,Turkey,Tokat,EMEA,EMEA
+977,Turkey,Malatya,EMEA,EMEA
+1018,Ukraine,Sevastopol',EMEA,EMEA
+1012,Ukraine,Kirovohrad,EMEA,EMEA
+453,Iran,Fars,EMEA,EMEA
+425,India,Uttarakhand,APAC,Central Asia
+987,Turkey,Sanliurfa,EMEA,EMEA
+542,Kazakhstan,Almaty City,EMEA,EMEA
+1113,Yemen,Al Hudaydah,EMEA,EMEA
+69,Austria,Styria,EU,Central
+212,China,Xinjiang Uygur,APAC,North Asia
+529,Japan,Nagasaki,APAC,North Asia
+53,Argentina,Santa Fe,LATAM,South
+1025,United Arab Emirates,'Ajman,EMEA,EMEA
+265,Czech Republic,Hradec Kralove,EMEA,EMEA
+157,Cameroon,Est,Africa,Africa
+708,Nigeria,Ondo,Africa,Africa
+979,Turkey,Mardin,EMEA,EMEA
+83,Barbados,Saint Michael,LATAM,Caribbean
+1086,Uzbekistan,Namangan,EMEA,EMEA
+1087,Uzbekistan,Qashqadaryo,EMEA,EMEA
+954,Turkey,Denizli,EMEA,EMEA
+924,Tanzania,Pwani,Africa,Africa
+494,Israel,Tel Aviv,EMEA,EMEA
+1097,Venezuela,Miranda,LATAM,South
+963,Turkey,Igdir,EMEA,EMEA
+1107,Vietnam,Dà Nang,APAC,Southeast Asia
+417,India,Odisha,APAC,Central Asia
+875,Spain,Basque Country,EU,South
+805,Romania,Vrancea,EMEA,EMEA
+1101,Venezuela,Portuguesa,LATAM,South
+944,Turkey,Antalya,EMEA,EMEA
+789,Romania,Dolj,EMEA,EMEA
+201,China,Jiangxi,APAC,North Asia
+45,Argentina,Mendoza,LATAM,South
+593,Mexico,Baja California Sur,LATAM,North
+1091,Venezuela,Bolivar,LATAM,South
+517,Japan,Fukui,APAC,North Asia
+226,Colombia,Cundinamarca,LATAM,South
+962,Turkey,Hatay,EMEA,EMEA
+442,Indonesia,Riau,APAC,Southeast Asia
+738,Peru,Arequipa,LATAM,South
+695,Nigeria,Delta,Africa,Africa
+618,Mexico,Tabasco,LATAM,North
+409,India,Haryana,APAC,Central Asia
+973,Turkey,Kirsehir,EMEA,EMEA
+1067,United States,Rhode Island,US,East
+244,Cote d'Ivoire,Vallee Du Bandama,Africa,Africa
+923,Tanzania,Mwanza,Africa,Africa
+631,Morocco,Gharb-Chrarda-Béni Hssen,Africa,Africa
+978,Turkey,Manisa,EMEA,EMEA
+7,Albania,Korçë,EMEA,EMEA
+168,Canada,Newfoundland,Canada,Canada
+526,Japan,Kanagawa,APAC,North Asia
+257,Cuba,Isla de la Juventud,LATAM,Caribbean
+728,Pakistan,Khyber Pakhtunkhwa,APAC,Central Asia
+513,Jamaica,Saint Catherine,LATAM,Caribbean
+109,Bolivia,Oruro,LATAM,South
+98,Benin,Atakora,Africa,Africa
+146,Bulgaria,Shumen,EMEA,EMEA
+694,Nigeria,Cross River,Africa,Africa
+302,Ecuador,Manabi,LATAM,South
+803,Romania,Timis,EMEA,EMEA
+1080,Uruguay,Montevideo,LATAM,South
+325,El Salvador,Sonsonate,LATAM,Central
+293,Dominican Republic,Peravia,LATAM,Caribbean
+9,Albania,Vlorë,EMEA,EMEA
+485,Iraq,Salah Ad Din,EMEA,EMEA
+215,Colombia,Antioquia,LATAM,South
+669,New Zealand,Hawke's Bay,APAC,Oceania
+106,Bolivia,Chuquisaca,LATAM,South
+876,Spain,Cantabria,EU,South
+177,Chile,Atacama,LATAM,South
+796,Romania,Mehedinti,EMEA,EMEA
+776,Republic of the Congo,Niari,Africa,Africa
+982,Turkey,Nigde,EMEA,EMEA
+259,Cuba,Matanzas,LATAM,Caribbean
+894,Swaziland,Manzini,Africa,Africa
+856,South Africa,Kwazulu-natal,Africa,Africa
+316,Egypt,Bur Sa'id,Africa,Africa
+85,Belarus,Homyel',EMEA,EMEA
+295,Dominican Republic,San Juan,LATAM,Caribbean
+236,Colombia,Tolima,LATAM,South
+108,Bolivia,La Paz,LATAM,South
+435,Indonesia,Kalimantan Barat,APAC,Southeast Asia
+556,Kyrgyzstan,Bishkek,EMEA,EMEA
+406,India,Chhattisgarh,APAC,Central Asia
+989,Turkey,Sirnak,EMEA,EMEA
+801,Romania,Sibiu,EMEA,EMEA
+672,New Zealand,Nelson,APAC,Oceania
+1022,Ukraine,Volyn,EMEA,EMEA
+1011,Ukraine,Khmel'nyts'kyy,EMEA,EMEA
+93,Belgium,Limburg,EU,Central
+532,Japan,Osaka,APAC,North Asia
+386,Guinea-Bissau,Bissau,Africa,Africa
+113,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,EMEA,EMEA
+128,Brazil,Paraíba,LATAM,South
+478,Iraq,Babil,EMEA,EMEA
+385,Guatemala,Quezaltenango,LATAM,Central
+176,Chile,Arica y Parinacota,LATAM,South
+829,Rwanda,Southern,Africa,Africa
+125,Brazil,Mato Grosso,LATAM,South
+834,Saudi Arabia,Ash Sharqiyah,EMEA,EMEA
+250,Cuba,Artemisa,LATAM,Caribbean
+937,Tunisia,Tunis,Africa,Africa
+1116,Zambia,Central,Africa,Africa
+873,Spain,Asturias,EU,South
+184,Chile,Valparaíso,LATAM,South
+55,Armenia,Lori,EMEA,EMEA
+613,Mexico,Querétaro,LATAM,North
+917,Tanzania,Kigoma,Africa,Africa
+331,Finland,Finland Proper,EU,North
+852,Somalia,Woqooyi Galbeed,Africa,Africa
+544,Kazakhstan,Aqmola,EMEA,EMEA
+557,Kyrgyzstan,Osh,EMEA,EMEA
+11,Algeria,Annaba,Africa,Africa
+820,Russia,Novgorod,EMEA,EMEA
+22,Algeria,Saida,Africa,Africa
+403,India,Assam,APAC,Central Asia
+587,Mali,Bamako,Africa,Africa
+152,Bulgaria,Yambol,EMEA,EMEA
+846,Slovakia,Banská Bystrica,EMEA,EMEA
+540,Jordan,'Amman,EMEA,EMEA
+431,Indonesia,Jambi,APAC,Southeast Asia
+456,Iran,Hamadan,EMEA,EMEA
+835,Saudi Arabia,Jizan,EMEA,EMEA
+541,Jordan,Irbid,EMEA,EMEA
+320,Egypt,Suhaj,Africa,Africa
+116,Brazil,Amapá,LATAM,South
+815,Russia,Ivanovo,EMEA,EMEA
+228,Colombia,Huila,LATAM,South
+1115,Yemen,Ta'izz,EMEA,EMEA
+155,Cameroon,Adamaoua,Africa,Africa
+530,Japan,Oita,APAC,North Asia
+785,Romania,Buzau,EMEA,EMEA
+755,Philippines,Cordillera,APAC,Southeast Asia
+307,Egypt,Al Gharbiyah,Africa,Africa
+939,Turkey,Adiyaman,EMEA,EMEA
+481,Iraq,Diyala,EMEA,EMEA
+1111,Vietnam,T?nh C?n Th?,APAC,Southeast Asia
+418,India,Puducherry,APAC,Central Asia
+709,Nigeria,Osun,Africa,Africa
+1125,Zimbabwe,Mashonaland West,Africa,Africa
+644,Mozambique,Manica,Africa,Africa
+282,Denmark,Central Jutland,EU,North
+566,Lithuania,Kaunas,EMEA,EMEA
+995,Turkey,Van,EMEA,EMEA
+994,Turkey,Usak,EMEA,EMEA
+681,Nicaragua,Granada,LATAM,Central
+357,Georgia,Imereti,EMEA,EMEA
+219,Colombia,Bolívar,LATAM,South
+960,Turkey,Eskisehir,EMEA,EMEA
+1017,Ukraine,Rivne,EMEA,EMEA
+1029,United Kingdom,Wales,EU,North
+291,Dominican Republic,La Vega,LATAM,Caribbean
+224,Colombia,Cesar,LATAM,South
+984,Turkey,Osmaniye,EMEA,EMEA
+778,Romania,Arges,EMEA,EMEA
+480,Iraq,Dhi Qar,EMEA,EMEA
+519,Japan,Gunma,APAC,North Asia
+870,South Korea,Ulsan,APAC,North Asia
+103,Benin,Mono,Africa,Africa
+1099,Venezuela,Mérida,LATAM,South
+5,Albania,Durrës,EMEA,EMEA
+332,Finland,Kymenlaakso,EU,North
+655,Netherlands,Friesland,EU,Central
+580,Malaysia,Negeri Sembilan,APAC,Southeast Asia
+1037,United States,District of Columbia,US,East
+788,Romania,Constanta,EMEA,EMEA
+1079,Uruguay,Canelones,LATAM,South
+124,Brazil,Mato Grosso do Sul,LATAM,South
+641,Mozambique,Cabo Delgado,Africa,Africa
+770,Portugal,Braga,EU,South
+585,Malaysia,Selangor,APAC,Southeast Asia
+936,Trinidad and Tobago,San Fernando,LATAM,Caribbean
+80,Bangladesh,Khulna,APAC,Central Asia
+972,Turkey,Kilis,EMEA,EMEA
+536,Japan,Tochigi,APAC,North Asia
+726,Pakistan,Baluchistan,APAC,Central Asia
+25,Algeria,Tipaza,Africa,Africa
+245,Croatia,Grad Zagreb,EMEA,EMEA
+160,Cameroon,Nord-Ouest,Africa,Africa
+935,Trinidad and Tobago,Chaguanas,LATAM,Caribbean
+652,Namibia,Khomas,Africa,Africa
+303,Ecuador,Pichincha,LATAM,South
+707,Nigeria,Ogun,Africa,Africa
+150,Bulgaria,Varna,EMEA,EMEA
+252,Cuba,Ciego de Ávila,LATAM,Caribbean
+714,Nigeria,Yobe,Africa,Africa
+948,Turkey,Batman,EMEA,EMEA
+178,Chile,Biobio,LATAM,South
+482,Iraq,Karbala',EMEA,EMEA
+983,Turkey,Ordu,EMEA,EMEA
+235,Colombia,Santander,LATAM,South
+866,South Korea,Gyeongsangnam,APAC,North Asia
+769,Portugal,Aveiro,EU,South
+356,Gabon,Estuaire,Africa,Africa
+800,Romania,Satu Mare,EMEA,EMEA
+240,Cote d'Ivoire,Haut-Sassandra,Africa,Africa
+1001,Uganda,Jinja,Africa,Africa
+848,Slovakia,Žilina,EMEA,EMEA
+697,Nigeria,Edo,Africa,Africa
+151,Bulgaria,Vratsa,EMEA,EMEA
+751,Peru,Puno,LATAM,South
+1082,Uruguay,Rivera,LATAM,South
+552,Kenya,Eastern,Africa,Africa
+554,Kenya,Nyanza,Africa,Africa
+941,Turkey,Aksaray,EMEA,EMEA
+737,Peru,Ancash,LATAM,South
+985,Turkey,Rize,EMEA,EMEA
+505,Italy,Marche,EU,South
+237,Colombia,Valle del Cauca,LATAM,South
+82,Bangladesh,Sylhet,APAC,Central Asia
+559,Lebanon,North Lebanon,EMEA,EMEA
+230,Colombia,Meta,LATAM,South
+1098,Venezuela,Monagas,LATAM,South
+490,Israel,Central,EMEA,EMEA
+909,Syria,Ar Raqqah,EMEA,EMEA
+387,Guinea,Kankan,Africa,Africa
+489,Ireland,South Dublin,EU,North
+934,Togo,Plateaux,Africa,Africa
+370,Germany,Saarland,EU,Central
+260,Cuba,Mayabeque,LATAM,Caribbean
+143,Bulgaria,Pernik,EMEA,EMEA
+911,Syria,Hims,EMEA,EMEA
+142,Bulgaria,Pazardzhik,EMEA,EMEA
+272,Democratic Republic of the Congo,Bandundu,Africa,Africa
+18,Algeria,Laghouat,Africa,Africa
+54,Argentina,Santiago del Estero,LATAM,South
+668,New Zealand,Gisborne,APAC,Oceania
+896,Sweden,Skåne,EU,North
+169,Canada,Nova Scotia,Canada,Canada
+13,Algeria,Bechar,Africa,Africa
+271,Czech Republic,Usti nad Labem,EMEA,EMEA
+229,Colombia,Magdalena,LATAM,South
+589,Mali,Mopti,Africa,Africa
+163,Cameroon,Sud-Ouest,Africa,Africa
+87,Belarus,Vitsyebsk,EMEA,EMEA
+314,Egypt,Asyut,Africa,Africa
+375,Ghana,Ashanti,Africa,Africa
+792,Romania,Gorj,EMEA,EMEA
+312,Egypt,Ash Sharqiyah,Africa,Africa
+248,Croatia,Splitsko-Dalmatinska,EMEA,EMEA
+571,Macedonia,Bitola,EMEA,EMEA
+518,Japan,Fukuoka,APAC,North Asia
+1088,Uzbekistan,Surxondaryo,EMEA,EMEA
+942,Turkey,Amasya,EMEA,EMEA
+843,Sierra Leone,Northern,Africa,Africa
+1,Afghanistan,Hirat,APAC,Central Asia
+149,Bulgaria,Stara Zagora,EMEA,EMEA
+811,Russia,Bryansk,EMEA,EMEA
+49,Argentina,Río Negro,LATAM,South
+568,Lithuania,Panevezys,EMEA,EMEA
+47,Argentina,Neuquén,LATAM,South
+522,Japan,Hyogo,APAC,North Asia
+622,Mexico,Zacatecas,LATAM,North
+292,Dominican Republic,Monseñor Nouel,LATAM,Caribbean
+463,Iran,Lorestan,EMEA,EMEA
+266,Czech Republic,Liberec,EMEA,EMEA
+1016,Ukraine,Poltava,EMEA,EMEA
+501,Italy,Friuli-Venezia Giulia,EU,South
+874,Spain,Balearic Islands,EU,South
+144,Bulgaria,Pleven,EMEA,EMEA
+653,Nepal,Central,APAC,Central Asia
+592,Mauritania,Nouakchott,Africa,Africa
+1090,Venezuela,Aragua,LATAM,South
+405,India,Chandigarh,APAC,Central Asia
+234,Colombia,Risaralda,LATAM,South
+376,Ghana,Central,Africa,Africa
+881,Spain,Extremadura,EU,South
+539,Japan,Yamaguchi,APAC,North Asia
+699,Nigeria,Gombe,Africa,Africa
+808,Russia,Astrakhan',EMEA,EMEA
+225,Colombia,Chocó,LATAM,South
+950,Turkey,Bolu,EMEA,EMEA
+400,Hungary,Gyor,EMEA,EMEA
+497,Italy,Basilicata,EU,South
+623,Moldova,Balti,EMEA,EMEA
+816,Russia,Kabardino-Balkariya,EMEA,EMEA
+1073,United States,Vermont,US,East
+466,Iran,Qazvin,EMEA,EMEA
+649,Mozambique,Tete,Africa,Africa
+175,Chile,Antofagasta,LATAM,South
+784,Romania,Brasov,EMEA,EMEA
+893,Sudan,White Nile,Africa,Africa
+1024,Ukraine,Zhytomyr,EMEA,EMEA
+998,Turkmenistan,Lebap,EMEA,EMEA
+33,Angola,Malanje,Africa,Africa
+436,Indonesia,Kalimantan Selatan,APAC,Southeast Asia
+269,Czech Republic,Plzen,EMEA,EMEA
+147,Bulgaria,Sliven,EMEA,EMEA
+38,Argentina,Chubut,LATAM,South
+304,Egypt,Al Bahr Al Ahmar,Africa,Africa
+309,Egypt,Al Minufiyah,Africa,Africa
+26,Algeria,Tizi Ouzou,Africa,Africa
+1095,Venezuela,Guárico,LATAM,South
+471,Iran,South Khorasan,EMEA,EMEA
+576,Madagascar,Boeny,Africa,Africa
+715,Nigeria,Zamfara,Africa,Africa
+842,Sierra Leone,Eastern,Africa,Africa
+721,Norway,Hedmark,EU,North
+380,Guadeloupe,Guadeloupe,LATAM,Caribbean
+888,Sri Lanka,Western,APAC,Central Asia
+112,Bolivia,Tarija,LATAM,South
+193,China,Hainan,APAC,North Asia
+294,Dominican Republic,San Cristóbal,LATAM,Caribbean
+781,Romania,Bistrita-Nasaud,EMEA,EMEA
+752,Peru,Ucayali,LATAM,South
+439,Indonesia,Nusa Tenggara Barat,APAC,Southeast Asia
+976,Turkey,Kutahya,EMEA,EMEA
+840,Senegal,Thies,Africa,Africa
+231,Colombia,Nariño,LATAM,South
+379,Ghana,Northern,Africa,Africa
+646,Mozambique,Nampula,Africa,Africa
+105,Bolivia,Beni,LATAM,South
+628,Morocco,Chaouia-Ouardigha,Africa,Africa
+92,Belgium,Hainaut,EU,Central
+884,Spain,Melilla,EU,South
+525,Japan,Kagawa,APAC,North Asia
+1103,Venezuela,Táchira,LATAM,South
+918,Tanzania,Kilimanjaro,Africa,Africa
+919,Tanzania,Mara,Africa,Africa
+441,Indonesia,Papua,APAC,Southeast Asia
+67,Austria,Salzburg,EU,Central
+455,Iran,Golestan,EMEA,EMEA
+140,Brazil,Tocantins,LATAM,South
+922,Tanzania,Mtwara,Africa,Africa
+141,Bulgaria,Burgas,EMEA,EMEA
+1126,Zimbabwe,Matabeleland North,Africa,Africa
+916,Tanzania,Iringa,Africa,Africa
+164,Cameroon,Sud,Africa,Africa
+24,Algeria,Skikda,Africa,Africa
+1109,Vietnam,Khánh Hòa,APAC,Southeast Asia
+765,Poland,Opole,EMEA,EMEA
+65,Austria,Carinthia,EU,Central
+232,Colombia,Norte de Santander,LATAM,South
+174,Chad,Mandoul,Africa,Africa
+550,Kenya,Central,Africa,Africa
+42,Argentina,Jujuy,LATAM,South
+227,Colombia,Córdoba,LATAM,South
+527,Japan,Mie,APAC,North Asia
+243,Cote d'Ivoire,Savanes,Africa,Africa
+664,Netherlands,Zeeland,EU,Central
+1004,Ukraine,Cherkasy,EMEA,EMEA
+39,Argentina,Corrientes,LATAM,South
+993,Turkey,Trabzon,EMEA,EMEA
+120,Brazil,Espírito Santo,LATAM,South
+625,Mongolia,Ulaanbaatar,APAC,North Asia
+20,Algeria,Mostaganem,Africa,Africa
+640,Morocco,Taza-Al Hoceima-Taounate,Africa,Africa
+713,Nigeria,Sokoto,Africa,Africa
+956,Turkey,Düzce,EMEA,EMEA
+722,Norway,Hordaland,EU,North
+8,Albania,Shkodër,EMEA,EMEA
+329,Estonia,Tartumaa,EMEA,EMEA
+563,Libya,Al Marqab,Africa,Africa
+205,China,Qinghai,APAC,North Asia
+905,Switzerland,Lucerne,EU,Central
+1124,Zimbabwe,Manicaland,Africa,Africa
+1104,Venezuela,Vargas,LATAM,South
+861,South Korea,Busan,APAC,North Asia
+279,Democratic Republic of the Congo,Maniema,Africa,Africa
+16,Algeria,Djelfa,Africa,Africa
+221,Colombia,Caldas,LATAM,South
+315,Egypt,Bani Suwayf,Africa,Africa
+443,Indonesia,Sulawesi Tengah,APAC,Southeast Asia
+1093,Venezuela,Cojedes,LATAM,South
+267,Czech Republic,Moravian-Silesian,EMEA,EMEA
+1102,Venezuela,Sucre,LATAM,South
+52,Argentina,San Luis,LATAM,South
+1085,Uzbekistan,Khorezm,EMEA,EMEA
+110,Bolivia,Potosí,LATAM,South
+327,Eritrea,Anseba,Africa,Africa
+969,Turkey,Kars,EMEA,EMEA
+523,Japan,Ibaraki,APAC,North Asia
+996,Turkey,Yalova,EMEA,EMEA
+183,Chile,Tarapacá,LATAM,South
+111,Bolivia,Santa Cruz,LATAM,South
+389,Guinea,Nzérékoré,Africa,Africa
+822,Russia,Stavropol',EMEA,EMEA
+742,Peru,Ica,LATAM,South
+567,Lithuania,Klaipeda,EMEA,EMEA
+572,Macedonia,Kumanovo,EMEA,EMEA
+633,Morocco,Guelmim-Es Semara,Africa,Africa
+483,Iraq,Maysan,EMEA,EMEA
+921,Tanzania,Morogoro,Africa,Africa
+687,Nigeria,Abuja Capital Territory,Africa,Africa
+927,Tanzania,Tabora,Africa,Africa
+107,Bolivia,Cochabamba,LATAM,South
+1084,Uzbekistan,Jizzakh,EMEA,EMEA
+949,Turkey,Bingol,EMEA,EMEA
+94,Belgium,Liège,EU,Central
+565,Libya,Misratah,Africa,Africa
+691,Nigeria,Bauchi,Africa,Africa
+958,Turkey,Elazig,EMEA,EMEA
+318,Egypt,Matruh,Africa,Africa
+1002,Uganda,Kabarole,Africa,Africa
+819,Russia,Moscow,EMEA,EMEA
+521,Japan,Hokkaido,APAC,North Asia
+99,Benin,Atlantique,Africa,Africa
+577,Madagascar,Diana,Africa,Africa
+1120,Zambia,Northern,Africa,Africa
+27,Algeria,Tlemcen,Africa,Africa
+945,Turkey,Ardahan,EMEA,EMEA
+611,Mexico,Oaxaca,LATAM,North
+438,Indonesia,Maluku,APAC,Southeast Asia
+741,Peru,Callao,LATAM,South
+3,Afghanistan,Kandahar,APAC,Central Asia
+839,Senegal,Saint-Louis,Africa,Africa
+77,Bahrain,Muharraq,EMEA,EMEA
+903,Switzerland,Bern,EU,Central
+638,Morocco,Tadla-Azilal,Africa,Africa
+101,Benin,Donga,Africa,Africa
+1100,Venezuela,Nueva Esparta,LATAM,South
+179,Chile,Los Lagos,LATAM,South
+748,Peru,Loreto,LATAM,South
+1026,United Arab Emirates,Ra's Al Khaymah,EMEA,EMEA
+795,Romania,Maramures,EMEA,EMEA
+326,Equatorial Guinea,Litoral,Africa,Africa
+1078,United States,Wyoming,US,West
+719,Niger,Zinder,Africa,Africa
+849,Slovenia,Ljubljana,EMEA,EMEA
+31,Angola,Huila,Africa,Africa
+1121,Zambia,Southern,Africa,Africa
+716,Niger,Diffa,Africa,Africa
+180,Chile,Magallanes y Antártica Chilena,LATAM,South
+89,Belgium,Brussels,EU,Central
+100,Benin,Borgou,Africa,Africa
+783,Romania,Braila,EMEA,EMEA
+515,Japan,Aomori,APAC,North Asia
+717,Niger,Maradi,Africa,Africa
+898,Sweden,Södermanland,EU,North
+285,Denmark,Zealand,EU,North
+548,Kazakhstan,Qostanay,EMEA,EMEA
+1083,Uzbekistan,Andijan,EMEA,EMEA
+570,Lithuania,Šiauliai,EMEA,EMEA
+926,Tanzania,Shinyanga,Africa,Africa
+488,Ireland,Galway,EU,North
+777,Romania,Arad,EMEA,EMEA
+823,Russia,Tambov,EMEA,EMEA
+19,Algeria,Medea,Africa,Africa
+920,Tanzania,Mbeya,Africa,Africa
+36,Argentina,Catamarca,LATAM,South
+780,Romania,Bihor,EMEA,EMEA
+238,Cote d'Ivoire,Dix-Huit Montagnes,Africa,Africa
+747,Peru,Lima,LATAM,South
+416,India,Manipur,APAC,Central Asia
+423,India,Tripura,APAC,Central Asia
+1062,United States,North Dakota,US,Central
+588,Mali,Kayes,Africa,Africa
+223,Colombia,Casanare,LATAM,South
+932,Togo,Kara,Africa,Africa
+528,Japan,Nagano,APAC,North Asia
+900,Sweden,Värmland,EU,North
+46,Argentina,Misiones,LATAM,South
+520,Japan,Hiroshima,APAC,North Asia
+216,Colombia,Arauca,LATAM,South
+1076,United States,West Virginia,US,East
+1020,Ukraine,Ternopil',EMEA,EMEA
+827,Russia,Yevrey,EMEA,EMEA
+696,Nigeria,Ebonyi,Africa,Africa
+740,Peru,Cajamarca,LATAM,South
+988,Turkey,Siirt,EMEA,EMEA
+786,Romania,Caras-Severin,EMEA,EMEA
+64,Austria,Carinthia,EMEA,EMEA
+241,Cote d'Ivoire,Lacs,Africa,Africa
+23,Algeria,Sidi Bel Abbes,Africa,Africa
+627,Montenegro,Podgorica,EMEA,EMEA
+725,Norway,Vest-Agder,EU,North
+797,Romania,Mures,EMEA,EMEA
+906,Switzerland,St. Gallen,EU,Central
+928,Tanzania,Tanga,Africa,Africa
+249,Croatia,Zagrebacka,EMEA,EMEA
+401,Hungary,Hajdu-Bihar,EMEA,EMEA
+821,Russia,Novosibirsk,EMEA,EMEA
+760,Poland,Lesser Poland,EMEA,EMEA
+804,Romania,Valcea,EMEA,EMEA
+305,Egypt,Al Buhayrah,Africa,Africa
+793,Romania,Hunedoara,EMEA,EMEA
+531,Japan,Okayama,APAC,North Asia
+458,Iran,Ilam,EMEA,EMEA
+957,Turkey,Edirne,EMEA,EMEA
+301,Ecuador,Los Rios,LATAM,South
+1105,Venezuela,Yaracuy,LATAM,South
+864,South Korea,Gangwon,APAC,North Asia
+398,Hungary,Bekes,EMEA,EMEA
+247,Croatia,Primorsko-Goranska,EMEA,EMEA
+735,Paraguay,Asunción,LATAM,South
+643,Mozambique,Inhambane,Africa,Africa
+43,Argentina,La Pampa,LATAM,South
+931,Togo,Centrale,Africa,Africa
+34,Angola,Namibe,Africa,Africa
+745,Peru,Lambayeque,LATAM,South
+72,Austria,Upper Austria,EMEA,EMEA
+1114,Yemen,Ibb,EMEA,EMEA
+44,Argentina,La Rioja,LATAM,South
+964,Turkey,Isparta,EMEA,EMEA
+925,Tanzania,Ruvuma,Africa,Africa
+970,Turkey,Kastamonu,EMEA,EMEA
+1081,Uruguay,Paysandú,LATAM,South
+869,South Korea,South Chungcheong,APAC,North Asia
+774,Portugal,Setúbal,EU,South
+968,Turkey,Karaman,EMEA,EMEA
+590,Mali,Sikasso,Africa,Africa
+574,Madagascar,Atsimo-Andrefana,Africa,Africa

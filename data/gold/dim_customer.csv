@@ -1,0 +1,796 @@
+customer_id,customer_name,segment
+752,Toby Braunhardt,Consumer
+399,Joseph Holt,Consumer
+49,Annie Thurman,Consumer
+276,Eugene Moren,Home Office
+484,Magdelene Morse,Consumer
+430,Kean Nguyen,Corporate
+443,Ken Lonsdale,Consumer
+466,Lindsay Williams,Corporate
+449,Larry Blacks,Consumer
+238,Dorothy Dickinson,Consumer
+226,Dennis Pardue,Home Office
+719,Stewart Visinsky,Consumer
+352,Jas O'Carroll,Consumer
+149,Chris McAfee,Consumer
+557,Nat Gilpin,Corporate
+341,Jack Garza,Consumer
+661,Russell Applegate,Consumer
+519,Maya Herman,Corporate
+87,Beth Thompson,Home Office
+61,Arthur Prichep,Consumer
+62,Arthur Wiediger,Home Office
+309,Grant Thornton,Corporate
+200,Darren Powers,Consumer
+100,Bradley Drucker,Consumer
+356,Jasper Cacioppo,Consumer
+362,Jennifer Halladay,Consumer
+526,Michael Granlund,Home Office
+613,Phillina Ober,Home Office
+697,Shaun Weien,Consumer
+693,Shahid Hopkins,Consumer
+114,Brosina Hoffman,Consumer
+644,Robert Dilbeck,Home Office
+308,Grace Kelly,Corporate
+444,Khloe Miller,Consumer
+539,Mick Brown,Consumer
+488,Maria Etezadi,Home Office
+491,Maribeth Schnelling,Consumer
+207,Dave Poirier,Corporate
+324,Harry Marie,Corporate
+482,Lycoris Saunders,Consumer
+28,Alyssa Crouse,Corporate
+343,Jack O'Briant,Corporate
+4,Adam Bellavance,Home Office
+402,Joy Smith,Consumer
+330,Henia Zydlo,Consumer
+573,Nicole Fjeld,Home Office
+159,Christopher Martinez,Consumer
+788,Vivek Sundaresam,Consumer
+381,Joe Elijah,Consumer
+247,Ed Braxton,Corporate
+18,Alejandro Grove,Consumer
+670,Sample Company A,Home Office
+191,Dan Lawera,Consumer
+257,Elpida Rittenbach,Corporate
+675,Sanjit Jacobs,Home Office
+749,Tiffany House,Corporate
+380,Jocasta Rupert,Consumer
+310,Greg Guthrie,Corporate
+596,Paul MacIntyre,Consumer
+591,Patrick O'Donnell,Consumer
+628,Ricardo Sperren,Corporate
+522,Melanie Seite,Consumer
+107,Brian Dahlen,Consumer
+655,Roy Collins,Consumer
+611,Philip Fox,Consumer
+209,David Flashing,Consumer
+712,Steve Carroll,Home Office
+231,Dianna Vittorini,Consumer
+164,Chuck Sachs,Consumer
+736,Tanja Norvell,Home Office
+52,Anthony Jacobs,Corporate
+264,Eric Murdock,Consumer
+747,Thomas Seio,Corporate
+657,Roy Phan,Corporate
+51,Anthony Garverick,Home Office
+607,Peter Bühler,Consumer
+691,Seth Vernon,Consumer
+696,Shaun Chance,Corporate
+648,Roger Demir,Consumer
+80,Ben Wallace,Consumer
+312,Greg Matthias,Consumer
+345,James Lanier,Home Office
+720,Stuart Calhoun,Consumer
+123,Cari Sayre,Corporate
+150,Chris Selesnick,Corporate
+695,Sharelle Roach,Home Office
+558,Natalie DeCherney,Consumer
+73,Bart Pistole,Corporate
+737,Ted Butterfield,Consumer
+714,Steve Nguyen,Home Office
+115,Bruce Degenhardt,Consumer
+553,Muhammed Yedwab,Corporate
+528,Michael Moore,Consumer
+234,Don Jones,Corporate
+180,Craig Leslie,Home Office
+653,Ross Baird,Home Office
+540,Mick Crebagga,Consumer
+106,Brendan Sweed,Corporate
+266,Erica Hackney,Consumer
+13,Alan Haines,Corporate
+251,Edward Hooks,Corporate
+221,Delfina Latchford,Consumer
+789,Vivian Mathis,Consumer
+735,Tamara Willingham,Home Office
+699,Shirley Daniels,Home Office
+145,Charles Sheldon,Corporate
+524,Michael Dominguez,Corporate
+786,Vivek Gonzalez,Consumer
+629,Richard Bierner,Consumer
+86,Beth Paige,Consumer
+588,Patrick Gardner,Consumer
+504,Matt Abelman,Home Office
+20,Aleksandra Gannaway,Corporate
+602,Pauline Webber,Corporate
+213,David Wiener,Corporate
+40,Ann Blume,Corporate
+527,Michael Kennedy,Corporate
+533,Michelle Arnett,Home Office
+730,Suzanne McNair,Corporate
+756,Toby Swindell,Consumer
+338,Irene Maddox,Consumer
+17,Alejandro Ballentine,Home Office
+199,Darren Koutras,Consumer
+622,Randy Bradley,Consumer
+660,Ruben Dartt,Consumer
+755,Toby Ritter,Consumer
+336,Hunter Lopez,Consumer
+665,Sally Hughsby,Corporate
+791,Xylona Preis,Consumer
+664,Ryan Crowe,Consumer
+203,Darrin Van Huff,Corporate
+552,Muhammed MacIntyre,Corporate
+499,Mark Van Huff,Consumer
+598,Paul Stevenson,Home Office
+486,Marc Harrigan,Home Office
+725,Sung Shariari,Consumer
+355,Jason Klamczynski,Corporate
+169,Claudia Bergmann,Corporate
+126,Carl Ludwig,Consumer
+531,Michael Paige,Corporate
+760,Tom Boeckenhauer,Consumer
+105,Brendan Murry,Corporate
+451,Larry Tron,Consumer
+175,Corey Roper,Home Office
+156,Christine Phan,Corporate
+700,Shirley Jackson,Consumer
+372,Jill Matthias,Consumer
+459,Lena Creighton,Consumer
+337,Ionia McGrath,Consumer
+162,Chuck Clark,Home Office
+311,Greg Hansen,Consumer
+396,Joni Sundaresam,Home Office
+548,Mitch Webber,Consumer
+707,Speros Goranitis,Consumer
+350,Janet Martin,Consumer
+287,Frank Olsen,Consumer
+295,Gary Hwang,Consumer
+10,Aimee Bixby,Consumer
+281,Filia McAdams,Corporate
+99,Brad Thomas,Home Office
+481,Luke Weiss,Consumer
+722,Sue Ann Reed,Consumer
+326,Heather Kirkland,Corporate
+357,Jay Fein,Consumer
+27,Allen Rosenblatt,Corporate
+556,Nat Carroll,Consumer
+335,Hunter Glantz,Consumer
+102,Bradley Talbott,Home Office
+563,Nathan Mautz,Home Office
+43,Anna Andreadi,Consumer
+16,Alan Shonely,Consumer
+151,Christina Anderson,Consumer
+590,Patrick O'Brill,Consumer
+131,Carol Adams,Corporate
+567,Neola Schneider,Consumer
+758,Todd Sumrall,Corporate
+663,Ryan Akin,Consumer
+224,Dennis Bolton,Home Office
+472,Liz Pelletier,Consumer
+71,Barry Weirich,Consumer
+248,Ed Jacobs,Consumer
+333,Herbert Flentye,Consumer
+626,Resi Pölking,Consumer
+577,Nona Balk,Corporate
+320,Harold Engle,Corporate
+211,David Philippe,Consumer
+60,Arthur Gainer,Consumer
+774,Troy Staebel,Consumer
+480,Luke Schmidt,Corporate
+546,Mike Vittorini,Consumer
+118,Bryan Davis,Consumer
+144,Charles McCrossin,Consumer
+680,Sarah Foster,Consumer
+189,Damala Kotsonis,Corporate
+104,Brendan Dodson,Home Office
+470,Liz Carlisle,Consumer
+210,David Kendrick,Corporate
+710,Stephanie Phelps,Corporate
+205,Dave Hallsten,Corporate
+299,Gene Hale,Corporate
+621,Ralph Ritter,Consumer
+272,Erin Smith,Corporate
+442,Ken Heidel,Corporate
+279,Evan Henry,Consumer
+256,Ellis Ballard,Corporate
+306,Giulietta Dortch,Corporate
+478,Lori Olson,Corporate
+246,Duane Noonan,Consumer
+517,Max Ludwig,Home Office
+262,Eric Barreto,Consumer
+214,Dean Braden,Consumer
+744,Theresa Swint,Corporate
+186,Cynthia Delaney,Home Office
+158,Christopher Conant,Consumer
+762,Tom Stivers,Corporate
+42,Ann Steele,Home Office
+56,Anthony Witt,Consumer
+496,Mark Haberlin,Corporate
+218,Deborah Brumfield,Home Office
+413,Justin MacKendrick,Consumer
+564,Neil Ducich,Corporate
+560,Natalie Webber,Consumer
+244,Duane Benoit,Consumer
+474,Liz Thompson,Consumer
+727,Susan MacKendrick,Consumer
+685,Scott Williamson,Consumer
+302,George Bell,Corporate
+250,Edward Becker,Corporate
+184,Cyma Kinney,Corporate
+438,Kelly Williams,Consumer
+403,Julia Barnett,Home Office
+761,Tom Prescott,Consumer
+702,Shui Tom,Consumer
+171,Clay Ludtke,Consumer
+793,Yoseph Carroll,Corporate
+318,Hallie Redmond,Home Office
+196,Daniel Raglin,Home Office
+267,Erica Hernandez,Home Office
+388,John Huston,Consumer
+534,Michelle Ellison,Corporate
+595,Paul Lucas,Home Office
+364,Jennifer Patt,Corporate
+141,Chad McGuire,Consumer
+617,Quincy Jones,Corporate
+520,Meg O'Connel,Home Office
+612,Philisse Overcash,Home Office
+500,Mary O'Rourke,Consumer
+46,Anna Häberlin,Corporate
+467,Lisa DeCherney,Consumer
+724,Sung Pak,Corporate
+559,Natalie Fritzler,Consumer
+315,Guy Armstrong,Consumer
+673,Sanjit Chand,Consumer
+427,Katrina Bavinger,Home Office
+453,Laurel Beltran,Home Office
+754,Toby Gnade,Consumer
+753,Toby Carlisle,Consumer
+328,Helen Andreada,Consumer
+604,Pete Armstrong,Home Office
+365,Jeremy Ellison,Consumer
+298,Gary Zandusky,Consumer
+771,Tracy Poddar,Corporate
+493,Marina Lichtenstein,Corporate
+775,Trudy Brown,Consumer
+581,Odella Nelson,Corporate
+81,Benjamin Farhat,Home Office
+508,Matt Hagelstein,Corporate
+74,Bart Watters,Corporate
+642,Rob Williams,Corporate
+772,Tracy Zic,Consumer
+68,Barry Französisch,Corporate
+259,Emily Ducich,Home Office
+452,Laura Armstrong,Corporate
+429,Katrina Willman,Consumer
+529,Michael Nguyen,Consumer
+536,Michelle Lonsdale,Corporate
+704,Skye Norling,Home Office
+11,Alan Barnes,Consumer
+378,Jim Radford,Consumer
+195,Daniel Lacy,Consumer
+773,Troy Blackwell,Consumer
+1,Aaron Bergman,Consumer
+668,Sam Craven,Consumer
+795,Zuschuss Donatelli,Consumer
+390,John Lucas,Consumer
+269,Erin Ashbrook,Corporate
+471,Liz MacKendrick,Consumer
+34,Andrew Roberts,Consumer
+462,Linda Cazamias,Corporate
+681,Sarah Jordon,Consumer
+24,Alice McCarthy,Corporate
+716,Steven Roelle,Home Office
+593,Paul Gonzalez,Consumer
+636,Rick Wilson,Corporate
+669,Sam Zeldin,Home Office
+634,Rick Huthwaite,Home Office
+33,Andrew Gjertsen,Corporate
+586,Patricia Hirasaki,Home Office
+404,Julia Dunbar,Consumer
+734,Tamara Manning,Consumer
+547,Mitch Gastineau,Corporate
+649,Roland Fjeld,Consumer
+129,Carlos Meador,Consumer
+407,Julie Creighton,Corporate
+130,Carlos Soltero,Consumer
+377,Jim Mitchum,Corporate
+161,Christy Brittain,Consumer
+525,Michael Grace,Home Office
+652,Rose O'Brian,Consumer
+292,Fred McMath,Consumer
+544,Mike Kennedy,Consumer
+770,Tracy Hopkins,Home Office
+260,Emily Grady,Consumer
+92,Bill Stewart,Corporate
+95,Bobby Odegard,Consumer
+641,Rob Lucas,Consumer
+458,Lena Cacioppo,Consumer
+225,Dennis Kane,Consumer
+679,Sarah Brown,Consumer
+781,Vicky Freymann,Home Office
+424,Katherine Hughes,Consumer
+204,Dave Brooks,Consumer
+307,Giulietta Weimer,Consumer
+692,Shahid Collister,Consumer
+120,Bryan Spruell,Home Office
+623,Randy Ferguson,Corporate
+477,Logan Haushalter,Consumer
+249,Ed Ludwig,Home Office
+108,Brian DeCherney,Consumer
+366,Jeremy Farry,Consumer
+501,Mary Zewe,Corporate
+574,Nicole Hansen,Corporate
+285,Frank Hawley,Corporate
+447,Kristina Nunn,Home Office
+682,Scot Coram,Corporate
+549,Mitch Willingham,Corporate
+671,Sandra Flanagan,Consumer
+124,Cari Schnelling,Consumer
+373,Jill Stevenson,Corporate
+277,Eva Jacobs,Consumer
+48,Anne Pryor,Home Office
+64,Astrea Jones,Consumer
+739,Thais Sissman,Consumer
+647,Roger Barcio,Home Office
+792,Yana Sorensen,Corporate
+148,Chris Cortes,Consumer
+63,Ashley Jarboe,Consumer
+97,Brad Eason,Home Office
+201,Darrin Martin,Consumer
+616,Pierre Wener,Consumer
+389,John Lee,Consumer
+70,Barry Pond,Corporate
+662,Russell D'Ascenzo,Consumer
+513,Maureen Gnade,Consumer
+181,Craig Molinari,Corporate
+579,Nora Pelletier,Home Office
+555,Naresj Patel,Consumer
+314,Greg Tran,Consumer
+304,Georgia Rosenberg,Corporate
+382,Joe Kamberova,Consumer
+514,Maurice Satty,Consumer
+415,Kalyca Meade,Corporate
+45,Anna Gayman,Consumer
+676,Saphhira Shifley,Corporate
+349,Janet Lee,Consumer
+119,Bryan Mills,Consumer
+764,Tonja Turnell,Home Office
+432,Kean Thornton,Consumer
+423,Katherine Ducich,Consumer
+75,Becky Castell,Home Office
+93,Bill Tyler,Corporate
+609,Peter McVee,Home Office
+511,Maureen Fritzler,Corporate
+420,Karen Seio,Corporate
+435,Kelly Andreada,Consumer
+537,Michelle Moray,Consumer
+718,Stewart Carmichael,Corporate
+497,Mark Hamilton,Consumer
+568,Neoma Murray,Consumer
+147,Chloris Kastensmidt,Consumer
+128,Carlos Daly,Consumer
+698,Sheri Gordon,Consumer
+763,Tom Zandusky,Corporate
+635,Rick Reed,Corporate
+274,Eugene Barchas,Consumer
+631,Rick Bensley,Home Office
+155,Christine Kargatis,Home Office
+121,Candace McMahon,Corporate
+222,Denise Leinenbach,Consumer
+353,Jason Fortune-,Consumer
+565,Neil Französisch,Home Office
+215,Dean Katz,Corporate
+198,Darren Budd,Corporate
+206,Dave Kipp,Consumer
+627,Ricardo Emerson,Consumer
+289,Fred Chung,Corporate
+608,Peter Fuller,Consumer
+240,Dorris liebe,Corporate
+112,Brian Thompson,Consumer
+729,Susan Vittorini,Consumer
+170,Clay Cheatham,Consumer
+101,Bradley Nguyen,Consumer
+50,Annie Zypern,Consumer
+253,Eileen Kiefer,Home Office
+688,Sean Miller,Home Office
+351,Janet Molinari,Corporate
+252,Edward Nazzal,Consumer
+142,Chad Sievert,Consumer
+507,Matt Connell,Corporate
+446,Kristen Hastings,Corporate
+228,Denny Joy,Corporate
+495,Mark Cousins,Corporate
+620,Ralph Kennedy,Consumer
+342,Jack Lebron,Consumer
+296,Gary McGarr,Consumer
+137,Cathy Armstrong,Home Office
+375,Jim Karlsson,Consumer
+532,Michael Stewart,Corporate
+3,Aaron Smayling,Corporate
+135,Cassandra Brandow,Consumer
+19,Alejandro Savely,Corporate
+405,Julia West,Consumer
+85,Beth Fritzler,Corporate
+132,Carol Darley,Consumer
+179,Craig Carroll,Consumer
+767,Tony Sayre,Consumer
+431,Kean Takahito,Consumer
+154,Christine Abelman,Corporate
+116,Bruce Geld,Consumer
+455,Laurel Workman,Corporate
+461,Lena Radford,Consumer
+321,Harold Pawlan,Home Office
+509,Matthew Clasen,Corporate
+746,Thomas Brumley,Home Office
+779,Valerie Mitchum,Home Office
+346,Jamie Frazer,Consumer
+740,Thea Hendricks,Consumer
+393,Jonathan Doherty,Corporate
+167,Cindy Stewart,Consumer
+153,Christina VanderZanden,Consumer
+469,Lisa Ryan,Corporate
+408,Julie Kriz,Home Office
+619,Ralph Arnett,Consumer
+545,Mike Pelletier,Home Office
+684,Scott Cohen,Corporate
+59,Art Foster,Consumer
+236,Don Weiss,Consumer
+412,Justin Hirsh,Consumer
+543,Mike Gockenbach,Consumer
+521,Meg Tillman,Consumer
+690,Sean Wendt,Home Office
+498,Mark Packer,Home Office
+58,Art Ferguson,Consumer
+23,Alex Russell,Corporate
+317,Guy Thornton,Consumer
+72,Bart Folk,Consumer
+448,Kunst Miller,Consumer
+726,Susan Gilcrest,Corporate
+400,Joy Bell-,Consumer
+562,Nathan Gelder,Consumer
+776,Trudy Glocke,Consumer
+21,Alex Avila,Consumer
+650,Roland Murray,Consumer
+618,Rachel Payne,Corporate
+416,Karen Bern,Corporate
+82,Benjamin Patterson,Consumer
+360,Jennifer Braxton,Corporate
+784,Victoria Pisteka,Corporate
+483,Lynn Smith,Consumer
+422,Katharine Harms,Corporate
+232,Dianna Wilson,Home Office
+639,Rob Dowd,Consumer
+258,Emily Burns,Consumer
+766,Tony Molinari,Consumer
+157,Christine Sundaresam,Consumer
+583,Pamela Coakley,Corporate
+428,Katrina Edelman,Corporate
+473,Liz Preis,Consumer
+230,Dianna Arnett,Home Office
+439,Ken Black,Corporate
+96,Bobby Trafton,Consumer
+594,Paul Knutson,Home Office
+313,Greg Maxwell,Corporate
+66,Barry Blumstein,Corporate
+741,Thea Hudgings,Corporate
+569,Nick Crebassa,Corporate
+387,John Grady,Corporate
+600,Pauline Chand,Home Office
+515,Max Engle,Consumer
+316,Guy Phonely,Corporate
+31,Amy Hunt,Consumer
+37,Andy Yotov,Corporate
+6,Adam Shillingsburg,Consumer
+651,Roland Schwarz,Corporate
+475,Liz Willingham,Consumer
+601,Pauline Johnson,Consumer
+194,Daniel Byrd,Home Office
+94,Bobby Elias,Consumer
+659,Ruben Ausman,Corporate
+392,John Stevenson,Consumer
+394,Jonathan Howell,Consumer
+166,Cindy Schnelling,Corporate
+84,Berenike Kampe,Consumer
+297,Gary Mitchum,Home Office
+358,Jay Kimmel,Consumer
+270,Erin Creighton,Consumer
+674,Sanjit Engle,Consumer
+138,Cathy Hwang,Home Office
+109,Brian Derr,Consumer
+245,Duane Huffman,Home Office
+89,Bill Eplett,Home Office
+178,Craig Carreira,Consumer
+78,Ben Ferrer,Home Office
+683,Scot Wooten,Consumer
+176,Corey-Lock,Consumer
+592,Patrick Ryan,Consumer
+489,Maria Zettner,Home Office
+603,Penelope Sewall,Home Office
+192,Dan Reichenbach,Corporate
+554,Nancy Lomonaco,Home Office
+202,Darrin Sayre,Home Office
+26,Allen Goldenen,Consumer
+454,Laurel Elliston,Consumer
+283,Frank Carlisle,Home Office
+278,Evan Bailliet,Consumer
+677,Sara Luxemburg,Home Office
+709,Stefanie Holloman,Corporate
+38,Anemone Ratner,Consumer
+237,Dorothy Badders,Corporate
+263,Eric Hoffmann,Consumer
+25,Allen Armold,Consumer
+2,Aaron Hawkins,Corporate
+88,Bill Donatelli,Consumer
+294,Gary Hansen,Home Office
+689,Sean O'Donnell,Consumer
+163,Chuck Magee,Consumer
+67,Barry Franz,Home Office
+339,Ivan Gibson,Consumer
+293,Fred Wasserman,Corporate
+212,David Smith,Corporate
+625,Raymond Messe,Consumer
+369,Jessica Myrick,Consumer
+464,Lindsay Castell,Home Office
+614,Phillip Breyer,Corporate
+738,Ted Trevino,Consumer
+55,Anthony Rawles,Corporate
+463,Linda Southworth,Corporate
+187,Cynthia Voltz,Corporate
+516,Max Jones,Consumer
+506,Matt Collister,Corporate
+656,Roy Französisch,Consumer
+575,Noah Childs,Corporate
+57,Arianne Irving,Consumer
+219,Debra Catini,Consumer
+36,Andy Reiter,Consumer
+325,Heather Jas,Home Office
+133,Carol Triggs,Consumer
+273,Eudokia Martin,Corporate
+323,Harry Greene,Consumer
+456,Lauren Leatherbury,Consumer
+41,Ann Chong,Corporate
+113,Brooke Gillingham,Corporate
+633,Rick Hansen,Consumer
+778,Valerie Dominguez,Consumer
+301,George Ashbrook,Consumer
+165,Cindy Chapman,Consumer
+53,Anthony Johnson,Corporate
+47,Anne McFarland,Consumer
+561,Nathan Cano,Consumer
+280,Evan Minnotte,Home Office
+32,Andrew Allen,Consumer
+91,Bill Shonely,Corporate
+713,Steve Chapman,Corporate
+589,Patrick Jones,Corporate
+492,Maribeth Yedwab,Corporate
+732,Tamara Chand,Corporate
+765,Tony Chapman,Home Office
+183,Craig Yedwab,Corporate
+768,Tracy Blumstein,Consumer
+686,Sean Braxton,Corporate
+751,Tim Taslimi,Corporate
+437,Kelly Lampkin,Corporate
+584,Pamela Stobb,Consumer
+785,Victoria Wilson,Corporate
+319,Harold Dahlen,Home Office
+457,Lela Donovan,Corporate
+275,Eugene Hildebrand,Home Office
+535,Michelle Huthwaite,Consumer
+460,Lena Hernandez,Consumer
+111,Brian Stugart,Consumer
+672,Sandra Glassco,Consumer
+790,William Brown,Consumer
+348,Jane Waco,Corporate
+193,Dana Kaydos,Consumer
+440,Ken Brennan,Corporate
+117,Bruce Stewart,Consumer
+518,Maxwell Schwartz,Consumer
+363,Jennifer Jackson,Consumer
+7,Adrian Barton,Consumer
+15,Alan Schoenberger,Corporate
+417,Karen Carlisle,Corporate
+425,Katherine Murray,Home Office
+733,Tamara Dahlen,Consumer
+268,Erica Smith,Consumer
+261,Emily Phan,Consumer
+705,Sonia Cooley,Consumer
+284,Frank Gastineau,Home Office
+227,Denny Blanton,Consumer
+243,Doug O'Connell,Consumer
+282,Frank Atkinson,Corporate
+216,Dean percer,Home Office
+468,Lisa Hazard,Consumer
+694,Shahid Shariari,Consumer
+291,Fred Hopkins,Corporate
+344,James Galang,Consumer
+490,Maribeth Dona,Consumer
+542,Mike Caudle,Corporate
+571,Nick Zandusky,Home Office
+550,Monica Federle,Corporate
+83,Benjamin Venier,Corporate
+134,Caroline Jumper,Consumer
+717,Steven Ward,Corporate
+239,Dorothy Wardle,Corporate
+640,Rob Haberlin,Consumer
+29,Alyssa Tate,Home Office
+76,Becky Martin,Consumer
+715,Steven Cartwright,Consumer
+630,Richard Eichhorn,Consumer
+646,Robert Waldorf,Consumer
+597,Paul Prost,Home Office
+386,John Dryer,Consumer
+658,Roy Skaria,Home Office
+624,Raymond Buch,Consumer
+421,Karl Braun,Consumer
+146,Charlotte Melton,Consumer
+44,Anna Chung,Consumer
+551,Muhammed Lee,Consumer
+780,Valerie Takahito,Home Office
+347,Jamie Kunitz,Consumer
+678,Sarah Bern,Consumer
+757,Todd Boyes,Corporate
+538,Michelle Tran,Home Office
+379,Jim Sink,Corporate
+566,Neil Knudson,Home Office
+570,Nick Radford,Consumer
+711,Stephanie Ulpright,Home Office
+723,Sung Chung,Consumer
+185,Cynthia Arntzen,Consumer
+265,Erica Bern,Corporate
+39,Angele Hood,Consumer
+632,Rick Duston,Consumer
+77,Becky Pak,Consumer
+254,Eleni McCrary,Corporate
+361,Jennifer Ferguson,Consumer
+654,Ross DeVincentis,Home Office
+340,Ivan Liston,Consumer
+127,Carl Weiss,Home Office
+782,Victor Preis,Home Office
+485,Marc Crier,Consumer
+401,Joy Daniels,Consumer
+5,Adam Hart,Corporate
+188,Cyra Reiten,Home Office
+667,Sally Matthias,Consumer
+433,Keith Dawkins,Corporate
+397,Joni Wasserman,Consumer
+436,Kelly Collister,Consumer
+371,Jill Fjeld,Consumer
+787,Vivek Grady,Corporate
+143,Charles Crestani,Consumer
+465,Lindsay Shagiari,Home Office
+406,Juliana Krohn,Consumer
+367,Jeremy Lonsdale,Consumer
+748,Thomas Thornton,Consumer
+708,Stefania Perrino,Corporate
+398,Joseph Airdo,Consumer
+409,Julie Prescott,Home Office
+383,Joel Eaton,Consumer
+721,Stuart Van,Corporate
+410,Justin Deggeller,Corporate
+35,Andy Gerbode,Corporate
+217,Deanra Eno,Home Office
+229,Denny Ordway,Consumer
+502,MaryBeth Skach,Consumer
+160,Christopher Schild,Home Office
+610,Philip Brown,Consumer
+354,Jason Gross,Corporate
+576,Noel Staavos,Corporate
+605,Pete Kriz,Consumer
+139,Cathy Prescott,Corporate
+572,Nicole Brennan,Corporate
+783,Victoria Brennan,Corporate
+152,Christina DeMoss,Consumer
+759,Tom Ashbrook,Home Office
+303,George Zrebassa,Corporate
+288,Frank Preis,Consumer
+434,Keith Herrera,Consumer
+233,Dionis Lloyd,Corporate
+327,Helen Abelman,Consumer
+666,Sally Knutson,Consumer
+523,Michael Chen,Consumer
+235,Don Miller,Corporate
+190,Dan Campbell,Consumer
+168,Claire Gute,Consumer
+334,Hilary Holden,Corporate
+122,Cari MacIntyre,Corporate
+220,Deirdre Greer,Corporate
+110,Brian Moss,Corporate
+197,Dario Medina,Corporate
+599,Paul Van Hugh,Home Office
+701,Shirley Schmidt,Home Office
+65,Barbara Fisher,Corporate
+136,Catherine Glotzbach,Home Office
+182,Craig Reiter,Consumer
+174,Corey Catlett,Corporate
+241,Doug Bickford,Consumer
+512,Maureen Gastineau,Home Office
+8,Adrian Hane,Home Office
+587,Patrick Bzostek,Home Office
+637,Ritsa Hightower,Consumer
+22,Alex Grayson,Consumer
+271,Erin Mull,Consumer
+300,Gene McClure,Consumer
+450,Larry Hughes,Consumer
+479,Luke Foster,Consumer
+476,Logan Currie,Consumer
+503,Mathew Reese,Home Office
+173,Clytie Kelty,Consumer
+706,Sonia Sunley,Consumer
+615,Phillip Flathmann,Consumer
+541,Mick Hernandez,Home Office
+177,Corinna Mitchell,Home Office
+487,Maria Bertelson,Consumer
+30,Amy Cox,Consumer
+510,Matthew Grinstein,Home Office
+370,Jesus Ocampo,Home Office
+585,Parhena Norris,Home Office
+255,Elizabeth Moffitt,Corporate
+172,Clay Rozendal,Home Office
+745,Thomas Boland,Corporate
+368,Jeremy Pistek,Consumer
+14,Alan Hwang,Consumer
+332,Henry MacAllister,Consumer
+505,Matt Collins,Consumer
+12,Alan Dominguez,Home Office
+731,Sylvia Foulston,Corporate
+703,Sibella Parks,Corporate
+530,Michael Oakman,Consumer
+643,Robert Barroso,Corporate
+223,Denise Monton,Corporate
+384,Joel Jenkins,Home Office
+750,Tim Brockman,Consumer
+777,Trudy Schmidt,Consumer
+286,Frank Merwin,Home Office
+54,Anthony O'Donnell,Corporate
+580,Nora Preis,Consumer
+445,Kimberly Carter,Corporate
+728,Susan Pistek,Consumer
+769,Tracy Collins,Home Office
+98,Brad Norvell,Corporate
+125,Carl Jackson,Corporate
+606,Pete Takahito,Consumer
+385,John Castell,Consumer
+242,Doug Jacobs,Consumer
+322,Harold Ryan,Corporate
+290,Fred Harton,Consumer
+395,Joni Blumstein,Consumer
+376,Jim Kriz,Home Office
+418,Karen Daniels,Consumer
+331,Henry Goldwyn,Corporate
+582,Olvera Toch,Consumer
+794,Zuschuss Carroll,Consumer
+79,Ben Peterman,Corporate
+329,Helen Wasserman,Corporate
+419,Karen Ferguson,Home Office
+743,Theresa Coyne,Corporate
+69,Barry Gonzalez,Consumer
+208,David Bremer,Corporate
+374,Jim Epp,Corporate
+391,John Murray,Consumer
+638,Rob Beeghly,Consumer
+414,Justin Ritter,Corporate
+103,Brenda Bowman,Corporate
+90,Bill Overfelt,Corporate
+742,Theone Pippenger,Consumer
+687,Sean Christensen,Consumer
+411,Justin Ellison,Corporate
+441,Ken Dana,Corporate
+426,Katherine Nockton,Corporate
+578,Nora Paige,Consumer
+359,Jenna Caffey,Consumer
+494,Maris LaWare,Consumer
+645,Robert Marley,Home Office
+140,Chad Cunningham,Home Office
+9,Adrian Shami,Home Office
+305,Giulietta Baptist,Consumer
