@@ -1,20 +1,3 @@
-"""
-------------------------------------------------------------
-Project : Customer Order Analytics
-Script  : data_cleaning.py
-
-Purpose:
-Bronze -> Silver ETL Pipeline
-
-Responsibilities:
-1. Load raw customer order data (Bronze)
-2. Standardize dataset
-3. Clean text columns
-4. Convert datatypes
-5. Validate data quality
-6. Save cleaned dataset (Silver)
-------------------------------------------------------------
-"""
 
 import logging
 from pathlib import Path
