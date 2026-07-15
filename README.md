@@ -153,6 +153,109 @@ The project connects to Snowflake and performs the following steps automatically
 - validates row counts after loading
 
 
+## 📈 Analytical Reports & Business Insights
+
+These reports turn the curated analytical data into decision-ready views for business users. Each report helps answer a practical question about customer value, regional performance, product demand, and profitability.
+
+### Top Customers by Revenue
+
+This report highlights the customers contributing the largest share of revenue. It is useful for identifying high-value accounts, prioritizing account management, and understanding which customers drive the most business impact.
+
+**Screenshot**
+
+![Top Customers by Revenue](results/top_customers_by_revenue.png)
+
+**Business Insight**
+- Business users can identify their most valuable customers and focus retention or growth efforts on those accounts.
+
+### Revenue by Region
+
+This report summarizes sales performance across different geographic regions. It helps stakeholders understand where revenue is concentrated and which markets may need additional support or investment.
+
+**Screenshot**
+
+![Revenue by Region](results/revenue_by_region.png)
+
+**Business Insight**
+- Business users can see where revenue is strongest or weakest geographically and adjust sales coverage or regional strategy accordingly.
+
+### Revenue by Segment
+
+This report breaks down revenue by customer segment such as consumer, corporate, or home office. It is valuable for understanding which customer groups are contributing most to the business and where growth opportunities may exist.
+
+**Screenshot**
+
+![Revenue by Segment](results/revenue_by_segment.png)
+
+**Business Insight**
+- Business users can compare customer segment performance and tailor marketing or service strategies to the most profitable groups.
+
+### Monthly Sales Trend
+
+This report shows how sales change over time across months or periods. It helps teams identify seasonal patterns, monitor growth, and evaluate whether recent performance is improving or declining.
+
+**Screenshot**
+
+![Monthly Sales Trend](results/monthly_sales_trend.png)
+
+**Business Insight**
+- Business users can spot trends in performance over time and plan forecasting, inventory, or promotional activity more effectively.
+
+### Top Products by Sales
+
+This report identifies the products generating the most sales volume or revenue. It is helpful for recognizing strong-performing items and understanding which offerings are most important to the business.
+
+**Screenshot**
+
+![Top Products by Sales](results/top_products.png)
+
+**Business Insight**
+- Business users can pinpoint the products that matter most to revenue and prioritize merchandising or promotional strategies around them.
+
+### Profit by Category
+
+This report examines profitability across product categories. It supports decisions around category focus, cost control, and identifying where the business is creating the most value.
+
+**Screenshot**
+
+![Profit by Category](results/profit_by_category.png)
+
+**Business Insight**
+- Business users can determine which product categories contribute the most profit and make better investment or assortment decisions.
+
+### Customer Lifetime Value
+
+This report estimates the long-term value of each customer based on their historical purchasing behavior. It is useful for prioritizing customer retention, loyalty programs, and high-value relationship management.
+
+**Screenshot**
+
+![Customer Lifetime Value](results/customer_lifetime_value.png)
+
+**Business Insight**
+- Business users can identify customers with the highest long-term potential and focus engagement strategies on preserving and growing those relationships.
+
+### Repeat Customers
+
+This report highlights customers who make multiple purchases over time. It helps teams understand loyalty, retention, and the effectiveness of repeat-buying behavior in the business.
+
+**Screenshot**
+
+![Repeat Customers](results/repeat_customers.png)
+
+**Business Insight**
+- Business users can understand customer retention patterns and identify opportunities to strengthen loyalty and recurring revenue.
+
+### Average Order Value
+
+This report measures the average amount spent per order. It is useful for understanding customer purchasing intensity and evaluating whether pricing, bundling, or upselling strategies are influencing spend size.
+
+**Screenshot**
+
+![Average Order Value](results/average_order_value.png)
+
+**Business Insight**
+- Business users can assess purchasing behavior at the order level and identify opportunities to increase revenue per transaction.
+
 ## SQL Analytics Reports
 
 The project includes reporting logic for business-facing analytical questions. These reports help answer practical questions such as:
